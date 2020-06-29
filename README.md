@@ -1,4 +1,8 @@
+Goal of this project : learn Redux, understanding of to link Redux and React, use of redux-thunk middleware to make async data loading. Use of Provider and connect methods of react-redux.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
